@@ -2,17 +2,16 @@
 
 ### 👨‍💻 Desenvolvedor [Sua Especialidade: ex: Fullstack / Mobile / Estudante]
 
-Eu sou um entusiasta da tecnologia apaixonado por resolver problemas e criar soluções digitais incríveis. Atualmente, estou focado em aprimorar minhas habilidades em **[Sua Stack Principal: ex: React e Node.js]** e contribuir para projetos de código aberto.
+Eu sou um entusiasta da tecnologia apaixonado por resolver problemas e criar soluções digitais incríveis. Atualmente, estou focado em aprimorar minhas habilidades em **[programação ]** e contribuir para projetos de código aberto.
 
 ---
 
 ### 🚀 Sobre Mim
 
-- 🔭 Atualmente trabalhando em **[Seu Projeto Atual]**
-- 🌱 Estudando **[Linguagem python ]**
-- 💬 Pergunte-me sobre **[Assuntos que você domina]**
+- 🔭 Atualmente trabalhando em **[projeto curso tech desenvolvimento python ]**
+- 🌱 Estudo **[ * Instituto federal - informatica * Senac tech - Desenvolvimento python ]**
 - 📫 Como me encontrar: **[munikepereira13@gmail.com]**
-- ⚡ Curiosidade: **[Algo engraçado ou pessoal sobre você]**
+
 
 ---
 
